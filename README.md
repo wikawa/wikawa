@@ -56,6 +56,7 @@ I'm especially interested in:
 I'm open to collaborating on interesting software, AI, automation and web projects.
 
 **Portfolio:** https://me.wikawa.co.ke
+
 **Wikawa Tech Services:** https://wikawa.co.ke  
 **Wikawa AI:** https://ai.wikawa.co.ke
 
