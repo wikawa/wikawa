@@ -1,20 +1,20 @@
-# Hi, I'm Wilson Wacera 👋
+# Hi, I'm Wilson Wacera 
 
-### Software Developer · Computer Science Student · Building Wíkawa
+### Software Developer 
 
 I build practical software around **AI, web applications, automation, APIs, and digital services**.
 
-I'm currently studying **Computer Science at Karatina University** while building products and experimenting with technologies that can solve real-world problems.
+I'm currently studying  building products and experimenting with technologies that can solve real-world problems.
 
-## 🚀 What I'm working on
+##  What I'm working on
 
-- 🤖 **Wikawa AI** — an AI platform focused on making multiple AI providers accessible through one experience
-- 🌐 **Wíkawa Tech Services** — software development, web development, 3D modelling and digital services
-- ⚙️ Automation tools and API integrations
-- 💳 Exploring payment and M-PESA integrations for Kenyan applications
-- 🧠 Learning more about LLM infrastructure, backend systems and scalable software
+-  **Wikawa AI** — an AI platform focused on making multiple AI providers accessible through one experience
+-  **Wíkawa Tech Services** — software development, web development, 3D modelling and digital services
+-  Automation tools and API integrations
+-  Exploring payment and M-PESA integrations for Kenyan applications
+-  Learning more about LLM infrastructure, backend systems and scalable software
 
-## 🛠️ Tech I work with
+##  Tech I work with
 
 **Languages & Web**
 
@@ -28,19 +28,19 @@ I'm currently studying **Computer Science at Karatina University** while buildin
 
 LLM APIs · AI provider integration · Prompt engineering · Web automation · API automation
 
-## 🌍 Featured work
+##  Featured work
 
 ### Wikawa AI
 A multi-provider AI platform built to offer a simple interface for accessing AI models and tools.
 
 **Live:** https://ai.wikawa.co.ke
 
-### Wíkawa Tech Services
+### Wikawa Tech Services
 My technology brand focused on building useful digital products and services.
 
 **Website:** https://wikawa.co.ke
 
-## 📈 Current focus
+## Current focus
 
 I'm especially interested in:
 
@@ -51,12 +51,12 @@ I'm especially interested in:
 - Building products for the African market
 - Turning experiments into real, usable software
 
-## 🤝 Let's connect
+## Let's connect
 
 I'm open to collaborating on interesting software, AI, automation and web projects.
 
-**Portfolio:** https://wilsonwacera.vercel.app  
-**Wíkawa Tech Services:** https://wikawa.co.ke  
+**Portfolio:** https://me.wikawa.co.ke
+**Wikawa Tech Services:** https://wikawa.co.ke  
 **Wikawa AI:** https://ai.wikawa.co.ke
 
 ---
